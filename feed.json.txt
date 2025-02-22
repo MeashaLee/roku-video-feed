@@ -1,0 +1,16 @@
+{
+  "videos": [
+    {
+      "title": "My First Video",
+      "description": "This is an example video.",
+      "thumbnail": "https://example.com/thumbnail1.jpg",
+      "url": "https://example.com/video1.mp4"
+    },
+    {
+      "title": "My Second Video",
+      "description": "This is another video.",
+      "thumbnail": "https://example.com/thumbnail2.jpg",
+      "url": "https://example.com/video2.mp4"
+    }
+  ]
+}
